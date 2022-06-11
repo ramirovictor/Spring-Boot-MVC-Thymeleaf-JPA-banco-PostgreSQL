@@ -2,7 +2,7 @@
 ![213665099_1019281575507133_3145508842294613120_n](https://user-images.githubusercontent.com/37045332/125006891-8689d300-e035-11eb-9f90-0e9427a2b298.jpg)
 
 ## Spring-Boot-MVC project with Thymeleaf, JPA and PostgreSQL database
-### Didactic project used in Java Web Full-Stack training course - JDevTreinamento. 
+
 #### Project created in start.spring.io Generate Maven Project with Java and Spring Boot 2.0.3
 > Status: Done
 
