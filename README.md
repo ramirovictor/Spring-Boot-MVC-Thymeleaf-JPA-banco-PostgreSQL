@@ -1,29 +1,19 @@
+![Project Logo](https://user-images.githubusercontent.com/37045332/125006891-8689d300-e035-11eb-9f90-0e9427a2b298.jpg)
 
-![213665099_1019281575507133_3145508842294613120_n](https://user-images.githubusercontent.com/37045332/125006891-8689d300-e035-11eb-9f90-0e9427a2b298.jpg)
+# Spring-Boot-MVC Project 🌱
 
-## Spring-Boot-MVC project with Thymeleaf, JPA and PostgreSQL database
+Project with Thymeleaf, JPA, and PostgreSQL database developed using the tools provided by [start.spring.io](https://start.spring.io). It's a Maven project with Java and Spring Boot 2.0.3.
 
-#### Project created in start.spring.io Generate Maven Project with Java and Spring Boot 2.0.3
-> Status: Done
+> **Status:** 🌐 Done
 
-#### User registration
+### Features:
+- User registration
 
-####code in portuguese
+_Note: Code is in Portuguese._
 
-## Technologies and Tools
-<table>
-  <tr> 
-    <td>Java</td>
-    <td>Dependências</td>
-    <td>PostgreSQL</td>
-    <td>Eclpse Spring Tools Suite</td>
-    <td>Windows</td>
-  </tr>
-  <tr> 
-    <td>8</td>
-    <td>consultar pom.xml</td>
-    <td>9.5*</td>
-    <td>3.9.5</td>
-    <td>10</td>
-  </tr>
-</table>
+## 💼 Technologies and Tools
+- **Java:** 8
+- **Dependencies:** Consult `pom.xml`
+- **Database:** PostgreSQL 9.5
+- **IDE:** Eclipse Spring Tools Suite 3.9.5
+- **OS:** Windows 10
